@@ -10,6 +10,9 @@
 .card-height {
     height: 12rem;
 }
+.card-height-small {
+    height: 8rem;
+}
 
 
 .bg-cl {
